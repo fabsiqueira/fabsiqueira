@@ -1,4 +1,4 @@
-```
+
 ### Hi there 👋
 
 <div>
@@ -32,4 +32,3 @@
 
 
 ![Snake animation](https://github.com/fabsiqueira/fabsiqueira/blob/output/github-contribution-grid-snake.svg)
-```
