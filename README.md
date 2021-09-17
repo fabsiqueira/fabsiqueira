@@ -8,7 +8,7 @@
 
 
 <div>
-  <a href="bit.ly/Infabiolasiqueira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
+  <a href="https://www.linkedin.com/in/fabiola-siqueira-874b09192/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
 </div>
 
 ##
